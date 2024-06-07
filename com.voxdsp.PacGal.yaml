@@ -36,4 +36,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/mrbid/PAC-GAL.git
-        commit: 67b43c11dea8d7fc7c1140cbe854fe666ff7095b
+        commit: 9056f4de244ca7a8dec3e4a95a3a3fd1b72e1cd5
